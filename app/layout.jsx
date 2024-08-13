@@ -7,7 +7,7 @@ export const metadata = {
   title: "Promptopia",
   description: "Discover & Share AI Prompts",
 };
-
+// console.log("client env---",process.env)
 const RootLayout = ({ children }) => (
   <html lang='en'>
     <body>
